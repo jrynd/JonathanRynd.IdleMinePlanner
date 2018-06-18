@@ -1,0 +1,2 @@
+C:\Users\Jonathan Rynd\documents\visual studio 2010\Projects\JonathanRynd.IdleMinePlanner\JonathanRynd.IdleMinePlanner\bin\Debug\JonathanRynd.IdleMinePlanner.exe.config
+C:\Users\Jonathan Rynd\documents\visual studio 2010\Projects\JonathanRynd.IdleMinePlanner\JonathanRynd.IdleMinePlanner\obj\x86\Debug\JonathanRynd.IdleMinePlanner.csprojResolveAssemblyReference.cache
